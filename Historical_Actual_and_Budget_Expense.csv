@@ -1,0 +1,109 @@
+Month,Year,MonthNum,Quarter,Category,Type,Budget_Expense,Actual_Expense
+Apr-24,2024,4,Q1,Salaries,Fixed,285000,285170
+May-24,2024,5,Q1,Salaries,Fixed,286710,287576
+Jun-24,2024,6,Q1,Salaries,Fixed,288420,291103
+Jul-24,2024,7,Q2,Salaries,Fixed,290130,290249
+Aug-24,2024,8,Q2,Salaries,Fixed,291840,293700
+Sep-24,2024,9,Q2,Salaries,Fixed,293550,294384
+Oct-24,2024,10,Q3,Salaries,Fixed,295260,296889
+Nov-24,2024,11,Q3,Salaries,Fixed,296970,299732
+Dec-24,2024,12,Q3,Salaries,Fixed,298680,300084
+Jan-25,2025,1,Q4,Salaries,Fixed,300390,300970
+Feb-25,2025,2,Q4,Salaries,Fixed,302100,303575
+Mar-25,2025,3,Q4,Salaries,Fixed,303810,306054
+Apr-24,2024,4,Q1,Rent,Fixed,95000,95648
+May-24,2024,5,Q1,Rent,Fixed,95570,99318
+Jun-24,2024,6,Q1,Rent,Fixed,96140,91504
+Jul-24,2024,7,Q2,Rent,Fixed,96710,97246
+Aug-24,2024,8,Q2,Rent,Fixed,97280,98038
+Sep-24,2024,9,Q2,Rent,Fixed,97850,100145
+Oct-24,2024,10,Q3,Rent,Fixed,98420,94768
+Nov-24,2024,11,Q3,Rent,Fixed,98990,95069
+Dec-24,2024,12,Q3,Rent,Fixed,99560,101119
+Jan-25,2025,1,Q4,Rent,Fixed,100130,101022
+Feb-25,2025,2,Q4,Rent,Fixed,100700,101457
+Mar-25,2025,3,Q4,Rent,Fixed,101270,102323
+Apr-24,2024,4,Q1,Utilities,Variable,32000,31347
+May-24,2024,5,Q1,Utilities,Variable,32192,32416
+Jun-24,2024,6,Q1,Utilities,Variable,32384,32669
+Jul-24,2024,7,Q2,Utilities,Variable,32576,35135
+Aug-24,2024,8,Q2,Utilities,Variable,32768,37879
+Sep-24,2024,9,Q2,Utilities,Variable,32960,33429
+Oct-24,2024,10,Q3,Utilities,Variable,37130,35803
+Nov-24,2024,11,Q3,Utilities,Variable,37345,38081
+Dec-24,2024,12,Q3,Utilities,Variable,33536,32555
+Jan-25,2025,1,Q4,Utilities,Variable,33728,34524
+Feb-25,2025,2,Q4,Utilities,Variable,33920,35099
+Mar-25,2025,3,Q4,Utilities,Variable,34112,33272
+Apr-24,2024,4,Q1,Marketing,Variable,55000,56590
+May-24,2024,5,Q1,Marketing,Variable,55330,56015
+Jun-24,2024,6,Q1,Marketing,Variable,55660,57033
+Jul-24,2024,7,Q2,Marketing,Variable,55990,59176
+Aug-24,2024,8,Q2,Marketing,Variable,56320,55905
+Sep-24,2024,9,Q2,Marketing,Variable,56650,55369
+Oct-24,2024,10,Q3,Marketing,Variable,76923,78716
+Nov-24,2024,11,Q3,Marketing,Variable,77368,79343
+Dec-24,2024,12,Q3,Marketing,Variable,57640,57507
+Jan-25,2025,1,Q4,Marketing,Variable,57970,58563
+Feb-25,2025,2,Q4,Marketing,Variable,58300,58784
+Mar-25,2025,3,Q4,Marketing,Variable,58630,60085
+Apr-24,2024,4,Q1,Technology,Fixed,28000,28011
+May-24,2024,5,Q1,Technology,Fixed,28168,29396
+Jun-24,2024,6,Q1,Technology,Fixed,28336,28111
+Jul-24,2024,7,Q2,Technology,Fixed,28504,30830
+Aug-24,2024,8,Q2,Technology,Fixed,28672,29210
+Sep-24,2024,9,Q2,Technology,Fixed,28840,28098
+Oct-24,2024,10,Q3,Technology,Fixed,29008,28076
+Nov-24,2024,11,Q3,Technology,Fixed,29176,29598
+Dec-24,2024,12,Q3,Technology,Fixed,29344,29147
+Jan-25,2025,1,Q4,Technology,Fixed,29512,30144
+Feb-25,2025,2,Q4,Technology,Fixed,29680,30101
+Mar-25,2025,3,Q4,Technology,Fixed,29848,29783
+Apr-24,2024,4,Q1,Transportation,Variable,48000,46781
+May-24,2024,5,Q1,Transportation,Variable,48288,46094
+Jun-24,2024,6,Q1,Transportation,Variable,48576,47925
+Jul-24,2024,7,Q2,Transportation,Variable,48864,55006
+Aug-24,2024,8,Q2,Transportation,Variable,49152,54383
+Sep-24,2024,9,Q2,Transportation,Variable,49440,47592
+Oct-24,2024,10,Q3,Transportation,Variable,55695,55984
+Nov-24,2024,11,Q3,Transportation,Variable,56018,56666
+Dec-24,2024,12,Q3,Transportation,Variable,50304,48970
+Jan-25,2025,1,Q4,Transportation,Variable,50592,50825
+Feb-25,2025,2,Q4,Transportation,Variable,50880,50969
+Mar-25,2025,3,Q4,Transportation,Variable,51168,49413
+Apr-24,2024,4,Q1,Office Expenses,Fixed,18000,18193
+May-24,2024,5,Q1,Office Expenses,Fixed,18108,18413
+Jun-24,2024,6,Q1,Office Expenses,Fixed,18216,18808
+Jul-24,2024,7,Q2,Office Expenses,Fixed,18324,18903
+Aug-24,2024,8,Q2,Office Expenses,Fixed,18432,17670
+Sep-24,2024,9,Q2,Office Expenses,Fixed,18540,18018
+Oct-24,2024,10,Q3,Office Expenses,Fixed,18648,18936
+Nov-24,2024,11,Q3,Office Expenses,Fixed,18756,19045
+Dec-24,2024,12,Q3,Office Expenses,Fixed,18864,19155
+Jan-25,2025,1,Q4,Office Expenses,Fixed,18972,21165
+Feb-25,2025,2,Q4,Office Expenses,Fixed,19080,19407
+Mar-25,2025,3,Q4,Office Expenses,Fixed,19188,19842
+Apr-24,2024,4,Q1,Maintenance,Variable,15000,15429
+May-24,2024,5,Q1,Maintenance,Variable,15090,15385
+Jun-24,2024,6,Q1,Maintenance,Variable,15180,15036
+Jul-24,2024,7,Q2,Maintenance,Variable,15270,15618
+Aug-24,2024,8,Q2,Maintenance,Variable,15360,15004
+Sep-24,2024,9,Q2,Maintenance,Variable,15450,15340
+Oct-24,2024,10,Q3,Maintenance,Variable,15540,15314
+Nov-24,2024,11,Q3,Maintenance,Variable,15630,15668
+Dec-24,2024,12,Q3,Maintenance,Variable,15720,16812
+Jan-25,2025,1,Q4,Maintenance,Variable,15810,14924
+Feb-25,2025,2,Q4,Maintenance,Variable,15900,16227
+Mar-25,2025,3,Q4,Maintenance,Variable,15990,15216
+Apr-24,2024,4,Q1,Other Operating Expenses,Variable,12000,11830
+May-24,2024,5,Q1,Other Operating Expenses,Variable,12072,12466
+Jun-24,2024,6,Q1,Other Operating Expenses,Variable,12144,12167
+Jul-24,2024,7,Q2,Other Operating Expenses,Variable,12216,11821
+Aug-24,2024,8,Q2,Other Operating Expenses,Variable,12288,12024
+Sep-24,2024,9,Q2,Other Operating Expenses,Variable,12360,12612
+Oct-24,2024,10,Q3,Other Operating Expenses,Variable,12432,12160
+Nov-24,2024,11,Q3,Other Operating Expenses,Variable,12504,12585
+Dec-24,2024,12,Q3,Other Operating Expenses,Variable,12576,12593
+Jan-25,2025,1,Q4,Other Operating Expenses,Variable,12648,12401
+Feb-25,2025,2,Q4,Other Operating Expenses,Variable,12720,13538
+Mar-25,2025,3,Q4,Other Operating Expenses,Variable,12792,13035

@@ -1,0 +1,55 @@
+Month,Year,MonthNum,Quarter,Category,Type,Forecast_Expense
+Apr-25,2025,4,Q1,Salaries,Fixed,308030.0
+May-25,2025,5,Q1,Salaries,Fixed,310018.76
+Jun-25,2025,6,Q1,Salaries,Fixed,312020.36
+Jul-25,2025,7,Q2,Salaries,Fixed,314034.88
+Aug-25,2025,8,Q2,Salaries,Fixed,316062.41
+Sep-25,2025,9,Q2,Salaries,Fixed,318103.03
+Apr-25,2025,4,Q1,Rent,Fixed,103040.05
+May-25,2025,5,Q1,Rent,Fixed,103762.13
+Jun-25,2025,6,Q1,Rent,Fixed,104489.26
+Jul-25,2025,7,Q2,Rent,Fixed,105221.5
+Aug-25,2025,8,Q2,Rent,Fixed,105958.86
+Sep-25,2025,9,Q2,Rent,Fixed,106701.39
+Apr-25,2025,4,Q1,Utilities,Variable,33552.17
+May-25,2025,5,Q1,Utilities,Variable,33834.69
+Jun-25,2025,6,Q1,Utilities,Variable,34119.6
+Jul-25,2025,7,Q2,Utilities,Variable,34406.9
+Aug-25,2025,8,Q2,Utilities,Variable,34696.63
+Sep-25,2025,9,Q2,Utilities,Variable,34988.79
+Apr-25,2025,4,Q1,Marketing,Variable,61064.99
+May-25,2025,5,Q1,Marketing,Variable,62060.95
+Jun-25,2025,6,Q1,Marketing,Variable,63073.17
+Jul-25,2025,7,Q2,Marketing,Variable,64101.89
+Aug-25,2025,8,Q2,Marketing,Variable,65147.39
+Sep-25,2025,9,Q2,Marketing,Variable,66209.94
+Apr-25,2025,4,Q1,Technology,Fixed,29978.6
+May-25,2025,5,Q1,Technology,Fixed,30175.49
+Jun-25,2025,6,Q1,Technology,Fixed,30373.68
+Jul-25,2025,7,Q2,Technology,Fixed,30573.16
+Aug-25,2025,8,Q2,Technology,Fixed,30773.95
+Sep-25,2025,9,Q2,Technology,Fixed,30976.07
+Apr-25,2025,4,Q1,Transportation,Variable,49859.85
+May-25,2025,5,Q1,Transportation,Variable,50310.75
+Jun-25,2025,6,Q1,Transportation,Variable,50765.72
+Jul-25,2025,7,Q2,Transportation,Variable,51224.81
+Aug-25,2025,8,Q2,Transportation,Variable,51688.05
+Sep-25,2025,9,Q2,Transportation,Variable,52155.48
+Apr-25,2025,4,Q1,Office Expenses,Fixed,20022.08
+May-25,2025,5,Q1,Office Expenses,Fixed,20203.78
+Jun-25,2025,6,Q1,Office Expenses,Fixed,20387.14
+Jul-25,2025,7,Q2,Office Expenses,Fixed,20572.17
+Aug-25,2025,8,Q2,Office Expenses,Fixed,20758.87
+Sep-25,2025,9,Q2,Office Expenses,Fixed,20947.26
+Apr-25,2025,4,Q1,Maintenance,Variable,15220.69
+May-25,2025,5,Q1,Maintenance,Variable,15225.39
+Jun-25,2025,6,Q1,Maintenance,Variable,15230.08
+Jul-25,2025,7,Q2,Maintenance,Variable,15234.78
+Aug-25,2025,8,Q2,Maintenance,Variable,15239.48
+Sep-25,2025,9,Q2,Maintenance,Variable,15244.18
+Apr-25,2025,4,Q1,Other Operating Expenses,Variable,13161.14
+May-25,2025,5,Q1,Other Operating Expenses,Variable,13288.5
+Jun-25,2025,6,Q1,Other Operating Expenses,Variable,13417.09
+Jul-25,2025,7,Q2,Other Operating Expenses,Variable,13546.93
+Aug-25,2025,8,Q2,Other Operating Expenses,Variable,13678.02
+Sep-25,2025,9,Q2,Other Operating Expenses,Variable,13810.38
